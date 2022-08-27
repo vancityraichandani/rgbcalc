@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body,html{
+  height: 90%;
+  width: 100%;
+}
+
+body{
+  background-image: url(./assets/ein.png);
+  background-size: cover;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
